@@ -1,8 +1,7 @@
 {
   "files": {
     "main.js": "/troop444-volunteer-survey/static/js/main.1cabe196.js",
-    "index.html": "/troop444-volunteer-survey/index.html",
-    "main.1cabe196.js.map": "/troop444-volunteer-survey/static/js/main.1cabe196.js.map"
+    "index.html": "/troop444-volunteer-survey/index.html"
   },
   "entrypoints": [
     "static/js/main.1cabe196.js"
